@@ -38,4 +38,5 @@
             @endforeach
         </div>
     </div>
+    <a href="">hola</a>
 </x-app-layout>
